@@ -8,3 +8,4 @@ My name is Sarah and I am a senior at Lehigh University. I am a Graphic Design m
 
 ![Undergraduate Enrollment at Lehigh University](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Undergraduate%20enrollment%20at%20lehigh%20university.png)
 Infographic of Enrollement at Lehigh University 
+This is an infographic project using canva and it shows the percentage of what Lehigh Students are enrolled in
