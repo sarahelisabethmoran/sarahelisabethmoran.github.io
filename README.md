@@ -13,7 +13,7 @@ This is an infographic project using canva and it shows the percentage of what L
 
 
 
-![Graphic Design Inforgraphic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/come%20celebrateWorld%20WhiskeyDay%20with%20us!.png) 
+![Graphic Design Inforgraphic](sarahelisabethmoran.github.io/come celebrateWorld WhiskeyDay with us!.png) 
 ## Infographic of Graphic Design Employment 
 Where do graphic designers work?
 
