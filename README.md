@@ -23,3 +23,7 @@ Using TimelineJS, I created a timeline showcasing a brief history of Graphic Des
 ##  2016 Undergraduate Enrollement Chart 
 Using Chartbuilder, I created a column chart showcasing the percentages of students at Lehigh University enrolled in each college. 
 ![Undergraduate Enrollment](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/2016UndergraduateEnrollmentChart.png?raw=true)
+
+## Undergraduate Enrollement over 10 Years
+Using Chartbuilder, I created a line chart showcasing undergraduate enrollment over the past 10 years
+![Undergraduate Enrollment over 10 years](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Undergraduate_Enrollment_from_the_Past_10_Years_Arts_&_Sciences_Business_Engineering__chartbuilder%202.png?raw=true)
