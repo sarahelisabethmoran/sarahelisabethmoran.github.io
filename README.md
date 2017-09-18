@@ -27,3 +27,6 @@ Using Chartbuilder, I created a column chart showcasing the percentages of stude
 ## Undergraduate Enrollement over 10 Years
 Using Chartbuilder, I created a line chart showcasing undergraduate enrollment over the past 10 years
 ![Undergraduate Enrollment over 10 years](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Undergraduate_Enrollment_from_the_Past_10_Years_Arts_&_Sciences_Business_Engineering__chartbuilder%202.png?raw=true)
+
+## % of Adults who use social media by Age
+![$ of Adults who use social media by Age](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/%25_of_Adults_who_use_Social_Media_by_Age__18-29_20-49_50-64_chartbuilder.png?raw=true) 
