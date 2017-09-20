@@ -30,3 +30,6 @@ Using Chartbuilder, I created a line chart showcasing undergraduate enrollment o
 
 ## % of Adults who use social media by Age
 ![$ of Adults who use social media by Age](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/%25_of_Adults_who_use_Social_Media_by_Age__18-29_20-49_50-64_chartbuilder.png?raw=true) 
+
+## Bethlehem Arts Centers 
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1sGgdCG9JTZnOf2co9u5lbTgJf0l07c-qck1S6MuT&amp;viz=MAP&amp;h=false&amp;lat=40.6157057522292&amp;lng=-75.36029755095825&amp;t=1&amp;z=14&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
