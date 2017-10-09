@@ -1,16 +1,15 @@
-![Profile Image](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/31413643.png?raw=true)
 
 
+![Comic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Screen%20Shot%202017-10-08%20at%209.41.19%20PM.png?raw=true)
 
-## Sarah Moran
 My name is Sarah and I am a senior at Lehigh University. I am a Graphic Design major and a double minor in mass communications and global studies. This page is dedicated to the class, Journalism 24 and showcasing the projects that we have done in class.
-
+![Profile Image](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/31413643.png?raw=true)
 
 
 
 ## Graphic Design Infographic 
 Using Canva, I made an infographic showcasing what professions Graphic Design majors go into. 
-![Graphic Design Inforgraphic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/come%20celebrateWorld%20WhiskeyDay%20with%20us!.png?raw=true)
+![Graphic Design Inforgraphic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/graphicdesigninfographic.png?raw=true)
 
 
 
@@ -57,7 +56,4 @@ Tableau Chart
   </html>
   
   
-  ## Comic
-  
-  ![Comic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Screen%20Shot%202017-10-08%20at%209.41.19%20PM.png?raw=true)
-  
+
