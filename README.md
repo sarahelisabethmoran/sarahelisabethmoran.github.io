@@ -3,8 +3,6 @@
 ![Comic](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Screen%20Shot%202017-10-08%20at%209.41.19%20PM.png?raw=true)
 
 My name is Sarah and I am a senior at Lehigh University. I am a Graphic Design major and a double minor in mass communications and global studies. This page is dedicated to the class, Journalism 24 and showcasing the projects that we have done in class.
-![Profile Image](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/31413643.png?raw=true)
-
 
 
 ## Graphic Design Infographic 
@@ -19,15 +17,8 @@ Using TimelineJS, I created a timeline showcasing a brief history of Graphic Des
 
 
 
-##  2016 Undergraduate Enrollement Chart 
-Using Chartbuilder, I created a column chart showcasing the percentages of students at Lehigh University enrolled in each college. 
-![Undergraduate Enrollment](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/2016UndergraduateEnrollmentChart.png?raw=true)
-
-## Undergraduate Enrollement over 10 Years
-Using Chartbuilder, I created a line chart showcasing undergraduate enrollment over the past 10 years
-![Undergraduate Enrollment over 10 years](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/Undergraduate_Enrollment_from_the_Past_10_Years_Arts_&_Sciences_Business_Engineering__chartbuilder%202.png?raw=true)
-
-## % of Adults who use social media by Age
+## % of U.S Adults who use social media by Age
+Using chartbuilder, I created a line chart about the % of U.S adults who use at least one social media site, by Age. The Age groups are seperated into three groups: 19-29, 20-49 and 50-64. By the year 2016 in all three age groups, 60% and above of all age groups use social media. 
 ![$ of Adults who use social media by Age](https://github.com/sarahelisabethmoran/sarahelisabethmoran.github.io/blob/master/%25_of_Adults_who_use_Social_Media_by_Age__18-29_20-49_50-64_chartbuilder.png?raw=true) 
 
 ## Bethlehem Arts Centers Map
